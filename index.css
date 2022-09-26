@@ -137,7 +137,6 @@ body {
   font-size: 1.5rem;
   background-image: url(ABOUT.png);
   background-repeat: no-repeat;
-  background-size: contain;
 
 
 }
@@ -209,7 +208,7 @@ h4 {
 .about-img img {
   display: block;
   height: 400px;
-  width: 80%;
+  width: 100%;
   margin: auto;
   object-fit: cover;
   object-position: right;
@@ -342,8 +341,6 @@ h4 {
   color: black;
   text-align: justify;
   font-style: italic;
-  width:80%;
-
 }
 
 .version-description {
