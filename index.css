@@ -13,15 +13,11 @@
   text-justify: auto;
 }
 #cssabout,
-#JSabout {
+#JSabout,
+
+#JQabout{
   width: 350px;
   border-radius: 15px;
-  border: solid black 4.5px;
-}
-
-#JQabout {
-  width: 350px;
-  border-radius: 5px;
   border: solid black 4.5px;
 }
 
